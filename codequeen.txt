@@ -1,0 +1,7 @@
+HTML
+provides aframework of everything that makes a website
+html is a foundation of a wesite
+VS Code is a text editor
+js-dynamic/usability
+
+
